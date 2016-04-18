@@ -1,8 +1,2 @@
 this is a test for branch
-branch1 is switched
-<<<<<<< HEAD
-branch1 changed again
-changed to master
-=======
-branch1 changed again
->>>>>>> branch1
+changed to branch1
